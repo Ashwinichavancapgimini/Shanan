@@ -42,7 +42,7 @@ public class Acti1 {
 	    	System.out.println("USER ON HOME PAGE");
 	    }
 	    else {
-	    	System.out.println("TC IS FAIL");
+	    	System.out.println("USER IS NOT ON HOME PAGE");
 	    	
 	    }
 	    
